@@ -13,13 +13,13 @@ body {
 }
 
 img.poolImg {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
-.col-lg-7.poolStat {
-    margin-left: auto;
-    margin-right: auto;
+i.fa.footSocial {
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 a {
@@ -561,7 +561,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .section-header p {
   padding: 0;
   margin: 0;
-  text-align: center;
+  text-align: left;
 }
 
 /* About Section
